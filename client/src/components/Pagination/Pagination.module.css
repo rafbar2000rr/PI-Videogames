@@ -1,0 +1,18 @@
+.pagination {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+  }
+
+.btn {
+  color: rgb(5, 5, 5);
+  float: left;
+  border: 2px solid #370617;
+  margin: 8px;
+  height: 40px;
+  width: 40px;
+  border-radius: 10px;
+
+}
+
+

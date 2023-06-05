@@ -1,0 +1,46 @@
+
+.buscar input{
+    height: 10px;
+    width: 300px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    border-radius: 15px;
+    background: #e9edee;
+    margin: 0 20px;
+    border: 1px solid white;
+    padding: 20px;
+    
+}
+
+::placeholder {
+    color:rgb(7, 6, 6);
+}
+
+.btn:hover {
+    background-color: #5c22b9;
+    color:aliceblue;
+    
+}
+    
+
+
+.btn {
+        color: #080808;
+        text-decoration: none;
+        border: #fbfdfd solid 1px;
+        padding: 5px;
+        border-radius: 10px;
+        font-size: 19px;
+        font-family:Arial, Helvetica, sans-serif;
+        box-shadow:  
+        0 0 3px rgb(56, 60, 61);
+        background-color: #5c22b9;
+        width:85px;
+        
+        
+    }
+
+
+.btn:active {
+    box-shadow: 2px 2px 5px #f8f5f4;
+}
